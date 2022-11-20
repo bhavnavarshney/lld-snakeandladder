@@ -1,4 +1,5 @@
-# lld-snakeandladder
+# Snake and Ladders
+This is low level design or machine code for snake and ladders game 
 
 # Requirements
 1. Multiplayer game
